@@ -1,0 +1,3 @@
+[submodule "lib/cpp-ncurses"]
+	path = lib/cpp-ncurses
+	url = git@github.com:fmichaut-dev/cpp-ncurses

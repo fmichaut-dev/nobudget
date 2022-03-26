@@ -1,0 +1,11 @@
+build/
+*.d
+*.o
+nobudget
+
+*~
+
+compile_commands.json
+
+lib/libs/
+lib/include/
